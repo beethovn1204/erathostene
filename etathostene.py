@@ -1,5 +1,5 @@
 """
-todo 
+A faire : supprimer directement des nombres pairs pour aller plus vite
 """
 
 def erathostene (n):
