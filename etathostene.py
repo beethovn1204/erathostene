@@ -11,7 +11,7 @@ def erathostene (n):
 		for j in range (i,n):
 			liste_supprime.append(i*j)
 		if i not in liste_supprime:
-			liste_premier.append(i)
+			print (str(i)+"\n")
 	return liste_premier
 
 
